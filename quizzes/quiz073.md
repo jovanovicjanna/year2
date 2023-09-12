@@ -37,6 +37,7 @@ while True:
 ```
 
 ## Test
-![Screen Shot 2023-09-13 at 0 46 53](https://github.com/jovanovicjanna/year2/assets/111895127/923fc2ef-f95e-4946-858d-dd2f4c7b8b10)
+
+![Screen Shot 2023-09-13 at 0 48 49](https://github.com/jovanovicjanna/year2/assets/111895127/189688a1-5e54-4d64-aeb4-e7a29bf57c5f)
 
 
