@@ -2,6 +2,9 @@
 
 ![Screen Shot 2023-09-14 at 17 37 37](https://github.com/jovanovicjanna/year2/assets/111895127/f3a0dfc7-10d2-43ea-bfcf-97f1bbbac6be)
 
+## Working on paper
+![Screen Shot 2023-09-14 at 20 44 31](https://github.com/jovanovicjanna/year2/assets/111895127/093734f9-5b04-4ef9-b7f6-a4e4573fc608)
+
 ## Python code
 ```.py
 def firewall(data):
