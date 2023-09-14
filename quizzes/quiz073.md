@@ -2,6 +2,10 @@
 
 ![Screen Shot 2023-09-13 at 0 45 43](https://github.com/jovanovicjanna/year2/assets/111895127/aaa81f85-8386-44b1-bd71-8778b3612e3d)
 
+## Working on paper
+![Screen Shot 2023-09-14 at 20 23 22](https://github.com/jovanovicjanna/year2/assets/111895127/b679e090-1b0d-4c47-910d-11c53584ae36)
+
+
 ## Python code
 
 ```.py
