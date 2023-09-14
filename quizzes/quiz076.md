@@ -2,6 +2,10 @@
 
 ![Screen Shot 2023-09-13 at 6 33 30](https://github.com/jovanovicjanna/year2/assets/111895127/d0124d64-e5e9-4a6b-bc24-f17c26dfb1ed)
 
+## Working on paper
+![Screen Shot 2023-09-14 at 20 38 05](https://github.com/jovanovicjanna/year2/assets/111895127/40c7f5ca-c564-4aa6-b4ad-c6096cc06d42)
+
+
 ## Python code
 ```.py
 def check_error(data):
