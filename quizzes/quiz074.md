@@ -4,7 +4,8 @@
 
 ## Working on paper
 
-![Uploading Screen Shot 2023-09-14 at 20.29.12.png…]()
+![Screen Shot 2023-09-14 at 20 47 56](https://github.com/jovanovicjanna/year2/assets/111895127/91b5b8d4-3d8c-4f2f-b2e7-a81dc4bcf732)
+
 
 ## Python code
 
